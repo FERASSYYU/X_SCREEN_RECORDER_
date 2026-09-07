@@ -4,7 +4,7 @@ An open-source project to build a native screen recorder and advanced system too
 
 Roadmap
 
-- [ ] Stage 01 — Foundation
+- [✓] Stage 01 — Foundation
 - [ ] Stage 02 — Plugin Framework
 - [ ] Stage 03 — System & Kernel
 - [ ] Stage 04 — Graphics / Xenos
